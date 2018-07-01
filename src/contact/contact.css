@@ -1,0 +1,21 @@
+.cmember span{
+    background-color: blue;
+
+}
+.ui.celled.striped.table tr {
+    text-align: center;
+}
+
+.col-md-8{
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+h3{
+    text-align: center;
+    color: rgb(241, 140, 7);
+}
+
+table{
+    text-align:center;
+}

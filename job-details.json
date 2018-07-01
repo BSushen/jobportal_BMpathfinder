@@ -1,0 +1,84 @@
+{
+    "job":[
+        {
+            "id":1,
+            "type":"IT",
+            "title":"Software Engineer",
+            "location":"Bangalore",
+            "experience":3,
+            "postedBy":"Sushen",
+            "company":"Amaris",
+            "description":"Software engineer with 3 years of experience and strong in .net"
+        },
+        {
+            "id":2,
+            "type":"NonIT",
+            "title":"Accountant",
+            "location":"Bangalore",
+            "experience":2,
+            "postedBy":"Priyanka",
+            "company":"EY",
+            "description":"Account payble and receiviable"
+        },
+        {
+            "id":3,
+            "type":"IT",
+            "title":"Javascript Developer",
+            "location":"Pune",
+            "experience":4,
+            "postedBy":"Sunit",
+            "company":"Wipro",
+            "description":"HTML, CSS, Javascript, Bootstrap"
+        },
+        {
+            "id":4,
+            "type":"NonIT",
+            "title":"French Teacher",
+            "location":"Mumbai",
+            "experience":2,
+            "postedBy":"Sushen",
+            "company":"XYZ",
+            "description":"Should have good knowledge on French language and should have teaching experience"
+        },
+        {
+            "id":5,
+            "type":"NonIT",
+            "title":"Supply-Chain Manager",
+            "location":"Bangalore",
+            "experience":5,
+            "postedBy":"Kapil",
+            "company":"Big Basket",
+            "description":"Managemant experience"
+        },
+        {
+            "id":6,
+            "type":"IT",
+            "title":"Java Developer",
+            "location":"Pune",
+            "experience":5,
+            "postedBy":"Sushen",
+            "company":"TCS",
+            "description":"Should have handson experience in java development"
+        },
+        {
+            "id":7,
+            "type":"IT",
+            "title":"Scrum Master",
+            "location":"Bangalore",
+            "experience":8,
+            "postedBy":"Atul",
+            "company":"Wipro",
+            "description":"Should be a certified scrum master"
+        },
+        {
+            "id":8,
+            "type":"IT",
+            "title":"Cloud Developer",
+            "location":"Pune",
+            "experience":5,
+            "postedBy":"Sushen",
+            "company":"TCS",
+            "description":"Should have knowledge in cloude based development"
+        }
+    ]
+}

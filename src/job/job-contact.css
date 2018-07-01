@@ -1,0 +1,13 @@
+.content {
+    background-color: rgb(248, 193, 110) !important;
+    text-align: center;
+    
+}
+
+.description{
+    margin-top: 1em;
+}
+
+.ui-dialog-titlebar{
+    background-color: aqua;
+}

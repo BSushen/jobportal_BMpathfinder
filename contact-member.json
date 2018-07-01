@@ -1,0 +1,36 @@
+{
+    "member":[
+        {
+            "id":1,
+            "firstName": "Sushen",
+            "lastName":"Birari",
+            "location":"Pune",
+            "occupation":"Software Engineer",
+            "phone": 9742877887,
+            "email":"sushen.birari@gmail.com",
+            "linkedin":"https://www.linkedin.com/in/sushen-birari-csm-8401a559/"
+    },
+    {
+        "id":2,
+        "firstName": "Omkar",
+        "lastName":"Muravne",
+        "location":"Bangalore",
+        "occupation":"UI/Ux Trainer and Softskill Mentor",
+        "phone": 9986406107,
+        "email":"omkar2004@gmail.com",
+        "linkedin":"https://www.linkedin.com/in/omkar-muravane-664b9922/"
+    },
+    {
+        "id":3,
+        "firstName": "Sseema",
+        "lastName":"Bhat",
+        "location":"Bangalore",
+        "occupation":"HR Consultant",
+        "phone": 7760089192,
+        "email":"prabhu.seema15@gmail.com",
+        "linkedin":"https://www.linkedin.com/in/sseema-bhat-4526a468/"
+    }
+]
+
+}
+    

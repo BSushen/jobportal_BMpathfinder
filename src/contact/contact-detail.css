@@ -1,0 +1,7 @@
+.rounded-circle{
+    width: 20%
+}
+
+.card-header, .card-footer{
+    background-color: rgb(245, 195, 129);
+}
