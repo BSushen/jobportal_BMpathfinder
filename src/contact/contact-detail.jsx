@@ -5,7 +5,7 @@ export default class ContactDetails extends Component {
   render() {
     return (
       <div>
-        <div className="card text-black table-warning">
+        <div className="card text-black border-warning">
           <div className="card-header"><strong>{this.props.member.firstName}</strong></div>
           <div className="card-body">
 

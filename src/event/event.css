@@ -1,0 +1,14 @@
+.event-heading{
+    background-color:rgb(248, 193, 110) !important;
+    padding: 1em;
+    text-align: center;
+    color: rgb(8, 8, 8);
+}
+
+.event-heading h1{
+    font-weight: bold;
+}
+
+img{
+    height: 5cm;
+}

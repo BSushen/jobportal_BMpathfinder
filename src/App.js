@@ -4,6 +4,8 @@ import './App.css';
 import Contact from './contact/contact';
 import JobList from './job/joblist';
 import JobIT from './job/jobs-it';
+import JobNonIT from './job/jobs-nonit';
+import Events from './event/event';
 
 class App extends Component {
   render() {
@@ -16,7 +18,7 @@ class App extends Component {
               <Link className="nav-link" to="/">BM <span id="path">Path Finder</span></Link>
             </li>
             <li className="nav-item">
-              <Link className="nav-link" to="/">Events</Link>
+              <Link className="nav-link" to="/events">Events</Link>
             </li>
             <li className="nav-item">
               <Link className="nav-link" to="/">Blog</Link>
@@ -32,6 +34,8 @@ class App extends Component {
             <Route exact path="/" component={ JobList } />
             <Route exact path="/contact" component={ Contact } />
             <Route exact path="/itjobs" component={ JobIT } />
+            <Route exact path="/nonitjobs" component={ JobNonIT } />
+            <Route exact path="/events" component={ Events } />
           </Switch>
       </div>
     );
